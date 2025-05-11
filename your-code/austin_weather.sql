@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS austin_weather (
     `DewPointHighF` VARCHAR(2) CHARACTER SET utf8,
     `DewPointAvgF` VARCHAR(2) CHARACTER SET utf8,
     `DewPointLowF` VARCHAR(2) CHARACTER SET utf8,
-    `HumidityHighPercent` VARCHAR(3) CHARACTER SET utf8,
+    `HumidityHaustin_weatherighPercent` VARCHAR(3) CHARACTER SET utf8,
     `HumidityAvgPercent` VARCHAR(2) CHARACTER SET utf8,
     `HumidityLowPercent` VARCHAR(2) CHARACTER SET utf8,
     `SeaLevelPressureHighInches` VARCHAR(5) CHARACTER SET utf8,
